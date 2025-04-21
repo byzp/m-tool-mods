@@ -1,9 +1,10 @@
 {
-  "name": "chat",
+  "name": "pause",
   "author": "byzp",
-  "main": "OfficialApi",
+  "main": "byzp.pause",
   "description": "Use command /p.",
   "version": 1.0,
   "minGameVersion":147,
-  "hidden": true
+  "hidden": true,
+  "repo": "byzp/m-tool-mods"
 }

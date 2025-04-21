@@ -7,3 +7,5 @@
 [基于frp的联机](https://github.com/byzp/line)
 
 [gpt聊天, 使用/c命令(不再维护)](https://github.com/byzp/chatgpt-mindustry-plugin)
+
+[土豆服务器aim插件的修改版](https://github.com/byzp/aim)

@@ -4,7 +4,7 @@ author: "byzp",
 main: byzp.main,
 description: "重置uuid"
 version: 1.0
-repo: "byzp/ruuid"
+repo: "byzp/m-tool-mods"
 minGameVersion: 136
 java: true
 hidden: true
