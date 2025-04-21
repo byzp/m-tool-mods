@@ -1,0 +1,9 @@
+{
+  "name": "chat",
+  "author": "byzp",
+  "main": "OfficialApi",
+  "description": "Use command /p.",
+  "version": 1.0,
+  "minGameVersion":147,
+  "hidden": true
+}
